@@ -1,4 +1,6 @@
-# APOLLO: Optimizer Memory and Convergence in Small Language Models
+# Reducing LLM Optimizer Memory with APOLLO
+
+**MVA course — Training and Deploying Large-Scale Models**
 
 This repository contains the training, benchmarking, plotting, and analysis code used to evaluate the claim that Approximated Gradient Scaling for Memory Efficient LLM Optimization (APOLLO) achieves AdamW-level performance with lower memory usage. The original paper is: https://arxiv.org/pdf/2412.05270. 
 
@@ -158,3 +160,6 @@ Generated outputs are written to:
 - `<root>/figures/table7_like.csv`
 - `<root>/figures/table10_like.csv`
 
+
+
+[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)

@@ -162,4 +162,4 @@ Generated outputs are written to:
 
 
 
-[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
+[Back to Ying Jin's project directory](https://github.com/PineappleBlowsnow#mva-projects)
